@@ -1,0 +1,9 @@
+C:\Users\HoThaiNgoc\Documents\Visual Studio 2015\Projects\QLTV_V1\QLTV_V1DTO\bin\Debug\QLTV_V1DTO.dll
+C:\Users\HoThaiNgoc\Documents\Visual Studio 2015\Projects\QLTV_V1\QLTV_V1DTO\bin\Debug\QLTV_V1DTO.pdb
+C:\Users\HoThaiNgoc\Documents\Visual Studio 2015\Projects\QLTV_V1\QLTV_V1DTO\bin\Debug\QLTV_V1DTO.xml
+C:\Users\HoThaiNgoc\Documents\Visual Studio 2015\Projects\QLTV_V1\QLTV_V1DTO\obj\Debug\QLTV_V1DTO.vbprojResolveAssemblyReference.cache
+C:\Users\HoThaiNgoc\Documents\Visual Studio 2015\Projects\QLTV_V1\QLTV_V1DTO\obj\Debug\QLTV_V1DTO.Resources.resources
+C:\Users\HoThaiNgoc\Documents\Visual Studio 2015\Projects\QLTV_V1\QLTV_V1DTO\obj\Debug\QLTV_V1DTO.vbproj.GenerateResource.Cache
+C:\Users\HoThaiNgoc\Documents\Visual Studio 2015\Projects\QLTV_V1\QLTV_V1DTO\obj\Debug\QLTV_V1DTO.dll
+C:\Users\HoThaiNgoc\Documents\Visual Studio 2015\Projects\QLTV_V1\QLTV_V1DTO\obj\Debug\QLTV_V1DTO.xml
+C:\Users\HoThaiNgoc\Documents\Visual Studio 2015\Projects\QLTV_V1\QLTV_V1DTO\obj\Debug\QLTV_V1DTO.pdb
